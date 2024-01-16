@@ -1,6 +1,6 @@
 ﻿# SignalR: Chat (Advanced)
 
-[![Deploy App](https://github.com/IEvangelist/signalr-chat/actions/workflows/blazing-chat.yml/badge.svg)](https://github.com/IEvangelist/signalr-chat/actions/workflows/blazing-chat.yml)
+<!-- [![Deploy App](https://github.com/oolumuyiwa/signalr-chat/actions/workflows/blazing-chat.yml/badge.svg)](https://github.com/oolumuyiwa/signalr-chat/actions/workflows/blazing-chat.yml) -->
 
 ## 💯 [Demo App](https://blazing-chat.azurewebsites.net)
 
